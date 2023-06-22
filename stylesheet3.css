@@ -1,0 +1,33 @@
+.box {
+  border: solid #dafffb 6px;
+  background-color: #64ccc5;
+  text-align: center;
+  width: 700px;
+  margin-left: auto;
+  margin-right: auto;
+  padding: 25px;
+  border-radius: 30px;
+}
+
+#OO {
+  border-color: #dafffb;
+  margin-bottom: 60px;
+}
+#PP {
+  overflow: hidden;
+}
+
+.HOMEPAGE {
+  padding: 25px;
+  margin-top: 100px;
+  background-color: white;
+}
+.photo1 {
+  height: 500px;
+  border-radius: 15px;
+}
+.photo2 {
+  height: 350px;
+  width: 600px;
+  border-radius: 15px;
+}
