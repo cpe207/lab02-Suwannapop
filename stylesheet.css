@@ -36,11 +36,12 @@ h3 {
   background-color: #176b87;
 }
 .Page a {
-  display: block;
+  display: inline;
   color: white;
   text-align: center;
   padding: 14px 16px;
   text-decoration: none;
+  border-radius: 100px;
 }
 .Page a:hover {
   background-color: white;
@@ -62,8 +63,8 @@ h3 {
   width: 150px;
 }
 .What {
-  border-radius: 50px;
+  border-radius: 100px;
   margin: 15px auto 25px auto;
-  width: 500px;
+  width: 450px;
   overflow: hidden;
 }
